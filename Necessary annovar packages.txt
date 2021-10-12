@@ -1,0 +1,29 @@
+These are already installed in the humandb folder in
+the annovar folder on the desktop. If they ever get deleted
+they should be re-installed.
+Follow instructions on 
+
+https://annovar.openbioinformatics.org/en/latest/user-guide/download/
+
+GRCh37_MT_ensGene.txt
+GRCh37_MT_ensGeneMrna.fa
+annovar_downdb.log
+genometrax-sample-files-gff
+hg19_MT_ensGene.txt
+hg19_MT_ensGeneMrna.fa
+hg19_clinvar_20210501.txt
+hg19_clinvar_20210501.txt.idx
+hg19_cosmic70.txt
+hg19_cosmic70.txt.idx
+hg19_example_db_generic.txt
+hg19_example_db_gff3.txt
+hg19_gnomad211_genome.txt
+hg19_gnomad211_genome.txt.idx
+hg19_kgXref.txt
+hg19_knownGene.txt
+hg19_knownGeneMrna.fa
+hg19_refGene.txt
+hg19_refGeneMrna.fa
+hg19_refGeneVersion.txt
+hg19_refGeneWithVer.txt
+hg19_refGeneWithVerMrna.fa
